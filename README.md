@@ -2,7 +2,6 @@
 Build simple yet accurate models to predict house prices with real marker value
 
 ![project presentation slide](images/slides/Slide1.jpeg)
-![project presentation slide](images/slides/Slide3.jpeg)
 ![project presentation slide](images/slides/Slide4.jpeg)
 
 __
@@ -14,6 +13,9 @@ __In the first notebook__, I will explore houe price dataset, and I select sever
 __In the second notebook__, I will build model with several different methods using features selected in the first notebook, and compare it to the models build with al avavaible data.   
 
 __Finally, in the third notebook___, I will use my method called __feature select__, to select best set of features from california dataset for optimal model, and I compare its results to results of models build with similar number of features selected using generic methods from sklearn. 
+
+
+![project presentation slide](images/slides/Slide3.jpeg)
 
 
 __DATA:__  
